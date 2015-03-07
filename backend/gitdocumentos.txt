@@ -1,0 +1,7 @@
+para enviar
+           git add
+           git commit -m "arquivo a enviar"
+           git push origin, mater
+
+para receber
+           git pull origin master
